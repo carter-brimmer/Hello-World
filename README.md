@@ -8,7 +8,7 @@ This repository was created to practice using GitHub and organizing project file
 ## Tools Used
 - **GitHub** - Organizing and sharing project files
 - **Python** - Writing and running programs
-- **Excel** - Working with data
+
 
 ## Files Included
 - `README.md` - Information about the repository
