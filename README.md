@@ -3,7 +3,7 @@
 *University of Iowa | BAIS:3050*
 
 ## Project Overview
-This repository was created to practice using GitHub and organizing project files. It includes examples of my coursework and helps me develop skills for future projects.
+This repository was created to practice using GitHub and organizing project files. It includes coursework from my Computational Thinking class, where I am learning Python programming. Creating this repository helps me develop technical skills that I can apply to future projects.
 
 ## Tools Used
 - **GitHub** - Organizing and sharing project files
