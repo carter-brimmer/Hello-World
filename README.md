@@ -12,8 +12,9 @@ This repository was created to practice using GitHub and organizing project file
 
 ## Files Included
 - `README.md` - Information about the repository
-- Two sample coursework files to be uploaded
-
+- `cbrimmer_eow3.py` - Python exercises using conditional statements
+- `cbrimmer_labPrep_4.py` - Python exercises using loops
+  
 ## How to Run the Programs
 1. Download the Python files from the repository.
 2. Open them in a Python editor.
